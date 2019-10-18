@@ -1,0 +1,26 @@
+
+/client v2/nbproject/private/
+.metadata
+.project
+/server v0/nbproject/private/
+/server/modules/config/settings.js
+
+.idea/
+.settings/
+node_modules/
+npm-debug.log
+bower_components/
+client/nbproject/
+server/nbproject/
+server/modules/utils/monitor/logs/
+
+*.py[cod]
+/mailrouter/log
+/mailrouter/attachments/*/*
+~*.xlsx
+/server/nohup.out
+/server/nsVoice-rep.js
+/nbproject/private/
+/nbproject/
+*.sln
+.vscode
